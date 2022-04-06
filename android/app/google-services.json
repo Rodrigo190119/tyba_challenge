@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "517319274730",
+    "project_id": "tyba-challenge-c59b2",
+    "storage_bucket": "tyba-challenge-c59b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517319274730:android:96ccbe31294f3fa9b1a793",
+        "android_client_info": {
+          "package_name": "com.example.tyba_flutter_challenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517319274730-ri7o6pstprt58n3avbotoa1sn3i3lq95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDobjOGjf6nWJSwd9IllkIP_EmL5WyoW6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517319274730-ri7o6pstprt58n3avbotoa1sn3i3lq95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
